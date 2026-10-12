@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Lương Khánh Toàn - 2A202602836
 
 Ngày lab/deadline áp dụng: 2026-10-12 23:59 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: HEAD (nhánh main)
+Commit dùng để chấm: 487e88adba5ef27045f65b19d4058c67ae2c653f (nhánh main)
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; mẫu ba rows không ép nhóm phải có ba người.
